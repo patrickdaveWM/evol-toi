@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: VOTRE_NOM_GITHUB/NOM_DE_VOTRE_DEPOT # Exemple : monpseudo/evol-toi
+  repo: patrickdaveWM/evol-toi # Exemple : monpseudo/evol-toi
   branch: main
 
 media_folder: "images"
